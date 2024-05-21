@@ -1,0 +1,7 @@
+tasks:
+  ExtractNews:
+    robot: main.py
+    artifactsDir: output
+    workItem: input  # Define the input work item
+
+
